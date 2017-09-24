@@ -1,0 +1,12 @@
+{
+  "name": "github_trending",
+  "version": "1.0.0",
+  "description": "抓取github语言趋势",
+  "main": "index.js",
+  "author": "liuzhiyuan",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "crawler": "^1.0.5"
+  }
+}

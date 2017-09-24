@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn init
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/go_songs/.node/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/share/dotnet:/usr/local/go/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/go_songs/Documents/go_workspace/bin:/Library/Maven/bin
+
+Yarn version: 
+  1.0.0
+
+Node version: 
+  6.9.5
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:115236:13)
+      at emitNone (events.js:86:13)
+      at Interface.emit (events.js:185:7)
+      at Interface._ttyWrite (readline.js:726:16)
+      at ReadStream.onkeypress (readline.js:126:10)
+      at emitTwo (events.js:106:13)
+      at ReadStream.emit (events.js:191:7)
+      at emitKeys (internal/readline.js:389:14)
+      at next (native)
+      at ReadStream.onData (readline.js:972:36)
